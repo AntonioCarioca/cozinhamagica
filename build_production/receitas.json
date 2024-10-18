@@ -1,0 +1,32 @@
+[
+    {
+        "titulo": "arroz simples",
+        "categoria": "acompanhamentos",
+        "autor": "antonio silva",
+        "link": "\/cozinhamagica\/receitas\/arroz-simples"
+    },
+    {
+        "titulo": "carne com ameixa",
+        "categoria": "carnes",
+        "autor": "antonio silva",
+        "link": "\/cozinhamagica\/receitas\/carne-ameixa"
+    },
+    {
+        "titulo": "frango crocante com aveia",
+        "categoria": "frangos",
+        "autor": "antonio silva",
+        "link": "\/cozinhamagica\/receitas\/frango-crocante"
+    },
+    {
+        "titulo": "mousse de maracuj\u00e1",
+        "categoria": "doces",
+        "autor": "antonio silva",
+        "link": "\/cozinhamagica\/receitas\/mousse-maracuja"
+    },
+    {
+        "titulo": "lombo su\u00edno com lim\u00e3o e mel",
+        "categoria": "suinos",
+        "autor": "antonio silva",
+        "link": "\/cozinhamagica\/receitas\/suino-limao-mel"
+    }
+]
